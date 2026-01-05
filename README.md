@@ -6,4 +6,4 @@ Want your track added? Make a issue with your text file.
 
 Leaderboard of our favorite tracks:
 
-hell (placeholder) [link to text file]
+hell [(hell_polytrack)](https://github.com/Jackgame281/sparkle_teal_favorites/blob/main/collection/hell_polytrack.txt)
